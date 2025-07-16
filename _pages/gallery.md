@@ -1,8 +1,8 @@
 ---
+layout: archive
 title: "Gallery"
 permalink: /gallery/
-layout: single
-author_profile: false
+author_profile: true
 ---
 
 ## 📸 Lab Moments & Memories
@@ -11,17 +11,22 @@ Welcome to the Zhan Lab photo gallery — a glimpse into the seasons, places, an
 
 ---
 
+### ☀️ Summer 2025 — LBNL AI for Science  
+<img src="/images/LBNL.jpeg" alt="LBNL Summer 2025" style="width:400px; height:auto;" />
+
 ### ❄️ Santa Fe, 2021 Winter  
-![Santa Fe Winter 2021](/images/hzhan-profile.jpg)
-
-### ⛄ New Mexico Tech — Winter View  
-![NMT Winter](/images/nmt-winter.jpeg)
-
-### 🌸 New Mexico Tech — Spring View  
-![NMT Spring](/images/nmt-image-1.jpg)
+<img src="/images/hzhan-profile.jpg" alt="Santa Fe Winter 2021" style="width:400px; height:auto;" />
 
 ### 🏛️ Cramer Hall — Home of CSE Dept  
-![Cramer Hall](/images/cramer.jpg)
+<img src="/images/cramer.jpg" alt="Cramer Hall" style="width:400px; height:auto;" />
 
-### ☀️ Summer 2025 — LBNL AI for Science  
-![LBNL Summer 2025](/images/LBNL.jpeg)
+### 🌸 New Mexico Tech — Spring View  
+<img src="/images/nmt-image-1.jpg" alt="NMT Spring" style="width:400px; height:auto;" />
+
+### ⛄ New Mexico Tech — Winter View  
+<img src="/images/nmt-winter.jpeg" alt="NMT Winter" style="width:400px; height:auto;" />
+
+
+
+
+
