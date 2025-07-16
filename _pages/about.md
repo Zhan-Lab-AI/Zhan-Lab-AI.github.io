@@ -1,23 +1,38 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Zhan Lab"
+excerpt: "AI for Scientific Discovery, Clinical Translation, and Interactive Intelligence"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Welcome to the **Zhan Lab** at New Mexico Tech!
 
-My name is Huixin Zhan. I am currently a Postdoctoral Scientist in the Department of Computational Biomedicine at [Cedars-Sinai Medical Center](https://www.cedars-sinai.org), advised by Prof. [Jason Moore](https://researchers.cedars-sinai.edu/Jason.Moore). I obtained my Ph.D. in Computer Science from the [Department of Computer Science](https://www.depts.ttu.edu/cs/) at [Texas Tech University](https://www.ttu.edu/), where I was advised by Prof. [Victor Sheng](https://www.depts.ttu.edu/cs/faculty/victor_sheng/index.php). Previously, I had the pleasure to work with [Zijun Frank Zhang](https://www.linkedin.com/in/zijun-frank-zhang-7859a07a/), who is now at Natera. I earned my MS at the University of Texas at San Antonio, and my BEng at Nanjing University of Science and Technology.
+We build machine learning systems that connect large language models and foundational models with real-world scientific and societal challenges. Our work spans deep learning, structured reasoning, and human-AI interaction, with applications across genomics, medicine, robotics, and responsible AI.
 
-I am broadly interested in machine learning, large language models, and graph neural networks, particularly their applications in text summarization, security, and privacy in both text mining and genomics data. My current research focuses on variant effect prediction using large language models, combining machine learning with genomics and biomedicine to develop predictive tools for cardiomyopathy and arrhythmia. Additionally, I explore the application of large language models to biomedical challenges, focusing on enhancing in-context learning and retrieval-augmented generation (RAG) for more effective knowledge graph-based reasoning.
 
-<!--
+<img src="/images/nmt-image.jpg" alt="New Mexico Tech Banner" width="100%" style="margin-top: 1rem; border-radius: 12px;">
+<em>New Mexico Tech – Institute Flag</em>
 
-### 🤖 Check Out the New PhD Program at Cedars
+---
 
-If you're interested in pursuing research in health and artificial intelligence, I encourage you to check out the [new PhD Program at Cedars-Sinai](https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html).
+### 🔬 Research Areas
+
+- 🧬 **Variant Effect Prediction using Large Language Models**  
+  We design LLMs to interpret genetic variants and predict disease relevance across cardiomyopathies and neurological disorders.
+
+- 🧠 **Biomedical Knowledge Graphs & Retrieval-Augmented Reasoning**  
+  Hybrid methods that combine neural models with structured biological knowledge.
+
+- 🔐 **Privacy & Robustness in Genomic Models**  
+  Studying adversarial attacks, fairness, and model bias for real-world deployment.
+
+- 🤖 **Agentic AI for Surgery and Rehab**  
+  AI systems that analyze and collaborate in clinical actions such as surgical skill tracking and robotic rehabilitation.
+
+---
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
@@ -47,4 +62,4 @@ If you're interested in pursuing research in health and artificial intelligence,
   
 </ul>
 
--->
+
