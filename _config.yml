@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huixin Zhan / Huixin Zhan's homepage"
+title                    : "Huixin Zhan / Zhan Lab Homepage"
 title_separator          : "-"
 name                     : &name "Huixin Zhan"
-description              : &description "I am a Ph.D student in the Department of Computer Science at Texas Tech University."
-url                      : https://huixin-zhan-ai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "I am an assistant professor in the Department of Computer Science & Engineering at New Mexico Tech."
+url                      : https://zhan-lab-ai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huixin-zhan-ai/huixin-zhan-ai.github.io"
+repository               : "zhan-lab-ai/zhan-lab-ai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
