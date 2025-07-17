@@ -32,7 +32,7 @@ h2 {
 
 ## 🧑‍🔬 Principal Investigator
 
-### Huixin Zhan
+### Huixin Zhan, Ph.D.
 
 <div class="team-section">
   <img src="/images/profile2.jpg" alt="Huixin Zhan" class="team-photo">
@@ -49,18 +49,18 @@ I am broadly interested in machine learning, large language models, and graph ne
 
 ## 🤝 Collaborators
 
-### Julia (Wei) Cui
+### Julia (Wei) Cui, Ph.D.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
   <img src="/images/julia.jpeg" alt="Julia W. Cui" style="width: 200px; border-radius: 12px; margin-right: 20px;">
   <div>
     <p>Julia Cui is an Assistant Professor of Business Communication at the Leeds School of Business, University of Colorado Boulder. She investigates the intersections of communication, media, technology, and business practices.</p>
 
-    <p>Julia holds a Ph.D. in Media and Communication from Texas Tech University, an M.S. in Mass Communication from San Jose State University, and a B.A. in Communication and Journalism from the University of Utah. Her research focuses on human-machine communication and AI-human interaction across diverse cultural contexts, especially in business and organizational settings. Her work explores trust, leadership, and ethics in AI-mediated communication.</p>
+    <p>She holds a Ph.D. in Media and Communication from Texas Tech University, an M.S. in Mass Communication from San Jose State University, and a B.A. in Communication and Journalism from the University of Utah. Dr. Cui’s interdisciplinary training informs her expertise in interpersonal, intercultural, and mass communication, as well as business communication pedagogy and practice. In addition to her academic credentials, she is also a trained vocalist, which enriches her appreciation for the expressive and performative dimensions of human interaction. Dr. Cui’s current research explores human-machine communication and AI-human interaction across culturally diverse business environments. She examines how emerging technologies—such as large language models and AI-driven communication platforms—are reshaping leadership discourse, cross-cultural collaboration, and organizational resilience. Her work also investigates how individuals from diverse cultural backgrounds interpret meaning, establish trust, and build relationships through AI-mediated communication, raising important implications for ethical practice and business effectiveness.</p>
   </div>
 </div>
 
-### Yifan Wang
+### Yifan Wang, Ph.D.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
   <img src="/images/yifan.png" alt="Yifan Wang" style="width: 200px; border-radius: 12px; margin-right: 20px;">
@@ -78,7 +78,7 @@ I am broadly interested in machine learning, large language models, and graph ne
   </div>
 </div>
 
-### Zhong Chen
+### Zhong Chen, Ph.D.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
   <img src="/images/zhong.png" alt="Zhong Chen" style="width: 200px; border-radius: 12px; margin-right: 20px;">
