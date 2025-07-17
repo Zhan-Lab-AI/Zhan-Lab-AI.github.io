@@ -81,6 +81,38 @@ In collaboration with my Ph.D. advisor, **Prof. Victor S. Sheng**, I co-mentored
 
 ## 🤝 Collaborators
 
+### Jun Zheng, Ph.D.
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/jun.png" alt="Jun Zheng" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p><strong>Professor and Chair, Computer Science & Engineering, New Mexico Tech</strong></p>
+    <p>Dr. Jun Zheng specializes in robotics, embedded systems, and cyber-physical systems. Huixin collaborates with him on building intelligent assistive robotic platforms that leverage AI for rehabilitation and human-in-the-loop care delivery.</p>
+  </div>
+</div>
+
+### Lorie Liebrock, Ph.D.
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/lorie.png" alt="Lorie Liebrock" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p><strong>Director, New Mexico Cybersecurity Center of Excellence (MOCCoE)</strong><br>
+    <strong>Professor, Computer Science, New Mexico Tech</strong></p>
+    <p>Dr. Lorie Liebrock is the director of MOCCoE and brings expertise in trustworthy AI and secure computing. Huixin collaborates with her on developing adversarially robust biomedical foundation models to ensure secure and generalizable AI for health applications.</p>
+  </div>
+</div>
+
+### Jason H. Moore, Ph.D., FACMI, FIAHSI, FASA
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/jason.png" alt="Jason Moore" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p><strong>Chair, Department of Computational Biomedicine, Cedars-Sinai Medical Center</strong></p>
+    <p>Dr. Jason H. Moore is the Chair of the Department of Computational Biomedicine at Cedars-Sinai Medical Center and a pioneer in translational bioinformatics and machine learning. Huixin collaborates with him on agentic AI systems for scientific reasoning, knowledge discovery, and clinical translation. The joint work bridges human-centered AI design with biomedical applications, aiming to develop intelligent, ethical, and adaptive systems that improve quality of life and independence for vulnerable groups.</p>
+  </div>
+</div>
+
+
 ### Julia (Wei) Cui, Ph.D.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
