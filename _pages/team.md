@@ -32,6 +32,8 @@ h2 {
 
 ## 🧑‍🔬 Principal Investigator
 
+### Huixin Zhan
+
 <div class="team-section">
   <img src="/images/profile2.jpg" alt="Huixin Zhan" class="team-photo">
   <div class="team-text">
@@ -46,6 +48,44 @@ I am broadly interested in machine learning, large language models, and graph ne
 ---
 
 ## 🤝 Collaborators
+
+### Julia (Wei) Cui
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/julia.jpeg" alt="Julia W. Cui" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p>Julia Cui is an Assistant Professor of Business Communication at the Leeds School of Business, University of Colorado Boulder. She investigates the intersections of communication, media, technology, and business practices.</p>
+
+    <p>Julia holds a Ph.D. in Media and Communication from Texas Tech University, an M.S. in Mass Communication from San Jose State University, and a B.A. in Communication and Journalism from the University of Utah. Her research focuses on human-machine communication and AI-human interaction across diverse cultural contexts, especially in business and organizational settings. Her work explores trust, leadership, and ethics in AI-mediated communication.</p>
+  </div>
+</div>
+
+### Yifan Wang
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/yifan.png" alt="Yifan Wang" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p>Yifan Wang is a faculty member at Texas Tech University with expertise in applied mathematics and scientific computing. Huixin collaborates with him on applying diffusion models for solving PDEs and generating scientific data. Their joint research explores integrating deep generative models into physics-informed learning frameworks.</p>
+  </div>
+</div>
+
+### Yufei Wu, OTD, OTR/L
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/yufei.jpeg" alt="Yufei Wu" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p>Dr. Yufei Wu is a clinical occupational therapist at Cedars-Sinai’s Outpatient Neurological Rehabilitation Center. As a licensed OTD, she brings deep clinical insights into neurorehabilitation. Huixin collaborates with her on research involving agentic AI and rehabilitation robotics for stroke and neurological recovery.</p>
+  </div>
+</div>
+
+### Zhong Chen
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/zhong.png" alt="Zhong Chen" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p>Zhong Chen is a faculty member at Southern Illinois University, focusing on scalable data mining and big streaming data algorithms. He collaborates with Huixin on developing, analyzing, and evaluating large-scale streaming algorithms to support high-throughput scientific discovery from real-time biomedical signals and systems.</p>
+  </div>
+</div>
 
 ---
 
