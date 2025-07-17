@@ -89,3 +89,22 @@ I am broadly interested in machine learning, large language models, and graph ne
 
 ---
 
+## 🐾 Lab Pets
+
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/zhupi.jpeg" alt="Zhupi" style="width: 200px; margin-right: 20px; border-radius: 10px;" />
+  <div>
+    <h3>Zhupi</h3>
+    <p><strong>Title:</strong> Unity Game Supervisor</p>
+    <p>Zhupi is the lab's early riser and keyboard critic. Frequently spotted during Unity debugging sessions, she ensures no script is left unchecked.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/a-lai.jpeg" alt="Pudding & A-Lai" style="width: 200px; margin-right: 20px; border-radius: 10px;" />
+  <div>
+    <h3>Pudding & A-Lai</h3>
+    <p><strong>Title:</strong> Emotional Support & Vocal Commentary Team</p>
+    <p>Pudding (the cockatiel) and A-Lai (the calico cat) provide daily emotional support, chirps of encouragement, and dramatic flair during lab meetings.</p>
+  </div>
+</div>
