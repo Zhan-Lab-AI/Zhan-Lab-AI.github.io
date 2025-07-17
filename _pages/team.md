@@ -87,7 +87,7 @@ In collaboration with my Ph.D. advisor, **Prof. Victor S. Sheng**, I co-mentored
   <img src="/images/jun.png" alt="Jun Zheng" style="width: 200px; border-radius: 12px; margin-right: 20px;">
   <div>
     <p><strong>Professor and Chair, Computer Science & Engineering, New Mexico Tech</strong></p>
-    <p>Dr. Jun Zheng specializes in robotics, embedded systems, and cyber-physical systems. Huixin collaborates with him on building intelligent assistive robotic platforms that leverage AI for rehabilitation and human-in-the-loop care delivery.</p>
+    <p>Dr. Jun Zheng specializes in AI/ML, cybersecurity, cyber-physical systems, and biomedical signal and image processing. Huixin collaborates with him on building intelligent assistive robotic platforms that leverage AI for rehabilitation and human-in-the-loop care delivery.</p>
   </div>
 </div>
 
