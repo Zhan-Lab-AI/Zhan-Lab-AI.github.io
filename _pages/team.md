@@ -151,6 +151,15 @@ In collaboration with my Ph.D. advisor, **Prof. Victor S. Sheng**, I co-mentored
   </div>
 </div>
 
+### Xi Li
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/xi.jpeg" alt="Zhong Chen" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p>Xi is a Research Data Scientist at Cedars-Sinai Medical Center, specializing in databases, graph analytics, and clinical data science. Huixin collaborates with her on research projects focused on knowledge graphs and digital twins.</p>
+  </div>
+</div>
+
 ---
 
 ## 🐾 Lab Pets
