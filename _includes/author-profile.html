@@ -28,9 +28,9 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
-      {% if author.website %}
+      {% if author.personalwebsite %}
         <li>
-          <a href="{{ author.website }}" target="_blank">
+          <a href="{{ author.personalwebsite }}" target="_blank">
             <i class="fas fa-fw fa-globe" aria-hidden="true"></i>
             {{ site.data.ui-text[site.locale].website_label | default: "Website" }}
           </a>
