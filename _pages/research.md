@@ -22,7 +22,7 @@ Our research spans from rare variant discovery to secure genomics and autonomous
   <li>
     <a href="#sec-1">Variant Effect Prediction with Large Language Models</a><br>
     &nbsp;&nbsp;&nbsp;&nbsp;1.1 <a href="#sec-1-1">Disease-Specific Modeling</a><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;1.2 <a href="#sec-1-2">World Models for Dynamic Reclassification</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.2 <a href="#sec-1-2">Adaptive Reasoning Models for Dynamic Reclassification</a>
   </li>
   <li>
     <a href="#sec-2">Trustworthy and Secure Genomic AI</a><br>
@@ -53,9 +53,9 @@ We work on calibration, zero-shot generalization, and clinically relevant varian
 </p>
 
 <a id="sec-1-2"></a>
-<h3>1.2 World Models in Genomics: From DYNA to Dynamic Variant Reclassification</h3>
+<h3>1.2 Adaptive Reasoning Models in Genomics: From DYNA to Dynamic Variant Reclassification</h3>
 <p>
-Building upon our prior work DYNA, a disease-specific language model for variant pathogenicity prediction, we propose a novel direction that introduces world models into the field of genomic interpretation. This approach reconceptualizes variant effect prediction as a dynamic reasoning process—where predictions evolve over time as new clinical or biological evidence becomes available.
+Building upon our prior work DYNA, a disease-specific language model for variant pathogenicity prediction, we propose a novel direction that introduces Adaptive Reasoning models into the field of genomic interpretation. This approach reconceptualizes variant effect prediction as a dynamic reasoning process—where predictions evolve over time as new clinical or biological evidence becomes available.
 
 This shift toward world modeling enables more flexible and forward-looking interpretation of variants of uncertain significance (VUS), particularly in underrepresented diseases such as cardiovascular disorders. It lays the groundwork for rethinking how uncertainty and evidence accumulation are handled in clinical genomics.
 
