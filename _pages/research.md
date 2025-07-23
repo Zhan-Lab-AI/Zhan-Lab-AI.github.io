@@ -17,7 +17,7 @@ We believe foundational models—if properly secured and grounded—can revoluti
 Our research spans from rare variant discovery to secure genomics and autonomous surgical reasoning.
 </p>
 
-<h4>Primary Research Areas</h4>
+<h2>Primary Research Areas</h2>
 <ol>
   <li>
     <a href="#sec-1">Variant Effect Prediction with Large Language Models</a><br>
@@ -46,14 +46,14 @@ Our flagship system, <strong>DYNA</strong>, enables more precise variant interpr
 </p>
 
 <a id="sec-1-1"></a>
-<h5>1.1 Disease-Specific Modeling</h5>
+<h3>1.1 Disease-Specific Modeling</h3>
 <p>
 DYNA outperforms general-purpose LLMs by focusing on domain-specific signals in gene regulation and disease mechanisms. 
 We work on calibration, zero-shot generalization, and clinically relevant variant filtering.
 </p>
 
 <a id="sec-1-2"></a>
-<h5>1.2 World Models in Genomics: From DYNA to Dynamic Variant Reclassification</h5>
+<h3>1.2 World Models in Genomics: From DYNA to Dynamic Variant Reclassification</h3>
 <p>
 Building upon our prior work DYNA, a disease-specific language model for variant pathogenicity prediction, we propose a novel direction that introduces world models into the field of genomic interpretation. This approach reconceptualizes variant effect prediction as a dynamic reasoning process—where predictions evolve over time as new clinical or biological evidence becomes available.
 
@@ -76,14 +76,14 @@ The model treats variant interpretation as an evolving state, enabling re-evalua
 <hr>
 
 <a id="sec-2"></a>
-<h4>2. Privacy and Security in Genomic AI</h4>
+<h3>2. Privacy and Security in Genomic AI</h3>
 <p>
 Genomic foundation models are powerful—but vulnerable. 
 We study <strong>privacy risks</strong> and build <strong>robust learning frameworks</strong> to make genomic AI secure, reproducible, and fair.
 </p>
 
 <a id="sec-2-1"></a>
-<h5>2.1 Privacy Leakage in Foundation Models</h5>
+<h3>2.1 Privacy Leakage in Foundation Models</h3>
 <p>
 Our recent work revealed privacy leakage in models like DNABERT-2. 
 Using mutational probes, we demonstrate that even foundation models trained without labels can memorize sensitive genomic sequences. 
@@ -91,7 +91,7 @@ We introduce defense strategies such as mutational masking.
 </p>
 
 <a id="sec-2-2"></a>
-<h5>2.2 Adversarial Robustness</h5>
+<h3>2.2 Adversarial Robustness</h3>
 <p>
 We test how robust genomic LLMs are under adversarial perturbations—like biologically plausible point mutations—
 and develop robust training techniques for variant prediction models to remain stable in real-world deployment.
@@ -103,7 +103,7 @@ and develop robust training techniques for variant prediction models to remain s
 <hr>
 
 <a id="sec-3"></a>
-<h4>3. Privacy-Aware Agentic AI for Surgery and Rehabilitation</h4>
+<h3>3. Privacy-Aware Agentic AI for Surgery and Rehabilitation</h3>
 <p>
 To build truly <strong>trustworthy agentic AI</strong> for clinical settings, we must go beyond performance—
 addressing <strong>privacy, generalizability, and robustness</strong> in embodied and interactive medical AI systems.
@@ -111,7 +111,7 @@ Our lab explores how to integrate language models and sensor data while safeguar
 </p>
 
 <a id="sec-3-1"></a>
-<h5>3.1 Privacy-Preserving Surgical Gesture Prediction</h5>
+<h3>3.1 Privacy-Preserving Surgical Gesture Prediction</h3>
 <p>
 Surgical AI must reason over real-time data—often from cameras, wearables, and robotic devices—yet these streams can contain sensitive information.
 We study how to predict the next <strong>surgical gesture or subphase</strong> using <strong>privacy-aware multimodal modeling</strong>, 
@@ -120,7 +120,7 @@ Our goal is to enable <strong>skill assessment, decision support, and AI-guided 
 </p>
 
 <a id="sec-3-2"></a>
-<h5>3.2 Assistive Robotics for Rehab</h5>
+<h3>3.2 Assistive Robotics for Rehab</h3>
 <p>
 We collaborate with clinicians and engineers to embed AI into rehab robotics. 
 We use wearable sensor data and fine-grained action modeling to personalize rehabilitation plans for stroke and spinal injury patients.
