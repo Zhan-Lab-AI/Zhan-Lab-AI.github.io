@@ -97,6 +97,12 @@ We test how robust genomic LLMs are under adversarial perturbations—like biolo
 and develop robust training techniques for variant prediction models to remain stable in real-world deployment.
 </p>
 
+<p align="center">
+  <img src="/images/adversarial.png" alt="Adversary GFMs" width="600">
+</p>
+
+**Figure.** *Illustration of adversarial sensitivity in GFMs.* 
+
 *Related publication:*
 - [Zhan, H., Moore, J. H. (2025). SafeGenes: Evaluating the Adversarial Robustness of Genomic Foundation Models. <i>Submitted</i>.](https://arxiv.org/abs/2506.00821)
 
@@ -125,6 +131,12 @@ Our goal is to enable <strong>skill assessment, decision support, and AI-guided 
 We collaborate with clinicians and engineers to embed AI into rehab robotics. 
 We use wearable sensor data and fine-grained action modeling to personalize rehabilitation plans for stroke and spinal injury patients.
 </p>
+
+<p align="center">
+  <img src="/images/robotics.png" alt="Privacy-Preserving Surgical Gesture Prediction" width="600">
+</p>
+
+**Figure.** *Personalized gesture sequence prediction using diffusion models.* 
 
 *Related publication:*
 - [Zhan, H., Moore, J. H. (2025). Agentic Surgical AI: Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion in a Vision-Language-Action Framewor. <i>MICCAI Agentic AI Workshop</i>.](https://arxiv.org/abs/2506.08185)
