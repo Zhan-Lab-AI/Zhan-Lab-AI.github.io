@@ -31,7 +31,7 @@ Our research spans from rare variant discovery to secure genomics and autonomous
   </li>
   <li>
     <a href="#sec-3">Unified Generative AI for Surgery and Rehabilitation</a><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;3.1 <a href="#sec-3-1">Diffusion-Based Surgical Gesture Prediction</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;3.1 <a href="#sec-3-1">Diffusion-Based Multimodal Surgical Gesture Prediction</a><br>
     &nbsp;&nbsp;&nbsp;&nbsp;3.2 <a href="#sec-3-2">Assistive Robotics for Rehab</a>
   </li>
 </ol>
@@ -109,7 +109,7 @@ and develop robust training techniques for variant prediction models to remain s
 <hr>
 
 <a id="sec-3"></a>
-<h3>3. Privacy-Aware Agentic AI for Surgery and Rehabilitation</h3>
+<h3>3. Unified Generative AI for Surgery and Rehabilitation</h3>
 <p>
 To build truly <strong>trustworthy agentic AI</strong> for clinical settings, we must go beyond performance—
 addressing <strong>privacy, generalizability, and robustness</strong> in embodied and interactive medical AI systems.
@@ -117,7 +117,7 @@ Our lab explores how to integrate language models and sensor data while safeguar
 </p>
 
 <a id="sec-3-1"></a>
-<h3>3.1 Privacy-Preserving Surgical Gesture Prediction</h3>
+<h3>3.1 Diffusion-Based Multimodal Surgical Gesture Prediction</h3>
 <p>
 Surgical AI must reason over real-time data—often from cameras, wearables, and robotic devices—yet these streams can contain sensitive information.
 We study how to predict the next <strong>surgical gesture or subphase</strong> using <strong>privacy-aware multimodal modeling</strong>, 
