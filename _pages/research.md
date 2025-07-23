@@ -8,3 +8,21 @@ author_profile: true
 {% include base_path %}
 
 
+<a id="sec-1"></a>
+#### 1. World Models in Genomics: From DYNA to Dynamic Variant Reclassification
+
+Building upon our prior work **DYNA**, a disease-specific language model for variant pathogenicity prediction, we explore a novel application of *world models*—a concept borrowed from agentic AI and model-based reinforcement learning—to dynamically reclassify variants of uncertain significance (VUS). This approach treats variant interpretation as an evolving reasoning process, where predictions are updated as new evidence becomes available.
+
+Our framework integrates model-based reinforcement learning with large language model (LLM)-based embeddings, enabling **uncertainty-aware re-evaluation** of rare cardiovascular variants such as those in *FBN2*. This is a significant departure from static classifiers, allowing our model to simulate how clinical understanding might improve over time.
+
+<div class="row justify-content-md-center">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.html path="assets/img/research/dyna-worldmodel.png" title="DYNA-WorldModel workflow" class="img-fluid rounded z-depth-0" %}
+  </div>
+</div>
+<div class="caption"> <b>Figure. Illustration of our DYNA-WorldModel framework.</b>
+The model combines LLM-based representations with model-based reinforcement learning, updating pathogenicity assessments as evidence accumulates. It is designed to handle underpowered or sparse case data scenarios and is especially applicable to VUS reclassification in clinical genomics.
+</div>
+
+*Related publication:*
+- [Zhan, H., Moore, J. H., & Zhang, Z. (2025). A disease-specific language model for variant pathogenicity in cardiac and regulatory genomics. <i>Nature Machine Intelligence</i>.](https://huixin-zhan-ai.github.io//publications/)
