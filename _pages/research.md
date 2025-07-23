@@ -16,7 +16,7 @@ Building upon our prior work DYNA, a disease-specific language model for variant
 This shift toward world modeling enables more flexible and forward-looking interpretation of variants of uncertain significance (VUS), particularly in underrepresented diseases such as cardiovascular disorders. It lays the groundwork for rethinking how uncertainty and evidence accumulation are handled in clinical genomics.
 
 <p align="center">
-  <img src="/assets/img/research/dyna-worldmodel.pdf" alt="DYNA-WorldModel workflow" width="600">
+  <img src="/image/dyna-worldmodel.pdf" alt="DYNA-WorldModel workflow" width="600">
 </p>
 
 **Figure.** *Illustration of our DYNA-WorldModel framework.*  
