@@ -1,11 +1,11 @@
 ---
-layout: page
-permalink: /research
-title: research
-nav: true
-nav_rank: 3
+layout: archive
+title: "Research"
+excerpt: "Research"
+permalink: /research/
+author_profile: true
 ---
-<a id="toc"></a>
+{% include base_path %}
 
 Our lab uses statistical learning and deep learning as the unifying language to communicate 
 across research areas in computational biology. 
