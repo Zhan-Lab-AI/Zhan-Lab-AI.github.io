@@ -30,8 +30,8 @@ Our research spans from rare variant discovery to secure genomics and autonomous
     &nbsp;&nbsp;&nbsp;&nbsp;2.2 <a href="#sec-2-2">Adversarial Robustness</a>
   </li>
   <li>
-    <a href="#sec-3">Agentic AI for Surgery and Rehabilitation</a><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;3.1 <a href="#sec-3-1">Surgical Gesture Prediction</a><br>
+    <a href="#sec-3">Privacy-Aware Agentic AI for Surgery and Rehabilitation</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;3.1 <a href="#sec-3-1">Privacy-Preserving Surgical Gesture Prediction</a><br>
     &nbsp;&nbsp;&nbsp;&nbsp;3.2 <a href="#sec-3-2">Assistive Robotics for Rehab</a>
   </li>
 </ol>
@@ -85,7 +85,7 @@ We study <strong>privacy risks</strong> and build <strong>robust learning framew
 <a id="sec-2-1"></a>
 <h5>2.1 Privacy Leakage in Foundation Models</h5>
 <p>
-Our recent work revealed <a href="https://arxiv.org/abs/2506.00821" target="_blank"><strong>privacy leakage</strong></a> in models like DNABERT-2. 
+Our recent work revealed privacy leakage in models like DNABERT-2. 
 Using mutational probes, we demonstrate that even foundation models trained without labels can memorize sensitive genomic sequences. 
 We introduce defense strategies such as mutational masking.
 </p>
@@ -103,17 +103,20 @@ and develop robust training techniques for variant prediction models to remain s
 <hr>
 
 <a id="sec-3"></a>
-<h4>3. Agentic AI for Surgery and Rehabilitation</h4>
+<h4>3. Privacy-Aware Agentic AI for Surgery and Rehabilitation</h4>
 <p>
-AI must not only analyze data but also understand clinical <strong>intent, context, and action</strong>. 
-We explore how LLMs and sensor fusion can unlock agentic intelligence in surgical environments and neuro-rehabilitation.
+To build truly <strong>trustworthy agentic AI</strong> for clinical settings, we must go beyond performance—
+addressing <strong>privacy, generalizability, and robustness</strong> in embodied and interactive medical AI systems.
+Our lab explores how to integrate language models and sensor data while safeguarding patient confidentiality and minimizing information leakage.
 </p>
 
 <a id="sec-3-1"></a>
-<h5>3.1 Surgical Gesture Prediction</h5>
+<h5>3.1 Privacy-Preserving Surgical Gesture Prediction</h5>
 <p>
-Using multi-modal surgical datasets (e.g., JIGSAWS), we build predictive models that infer the next <strong>surgical gesture or subphase</strong> 
-based on vision-language inputs. Our goal is to support <strong>skill assessment and intraoperative AI feedback</strong>.
+Surgical AI must reason over real-time data—often from cameras, wearables, and robotic devices—yet these streams can contain sensitive information.
+We study how to predict the next <strong>surgical gesture or subphase</strong> using <strong>privacy-aware multimodal modeling</strong>, 
+ensuring data minimization and feature obfuscation without degrading performance.
+Our goal is to enable <strong>skill assessment, decision support, and AI-guided training</strong> while preserving surgeon and patient privacy.
 </p>
 
 <a id="sec-3-2"></a>
