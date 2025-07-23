@@ -11,16 +11,16 @@ author_profile: true
 <a id="sec-1"></a>
 #### 1. World Models in Genomics: From DYNA to Dynamic Variant Reclassification
 
-Building upon our prior work **DYNA**, a disease-specific language model for variant pathogenicity prediction, we explore a novel application of *world models*—a concept borrowed from agentic AI and model-based reinforcement learning—to dynamically reclassify variants of uncertain significance (VUS). This approach treats variant interpretation as an evolving reasoning process, where predictions are updated as new evidence becomes available.
+Building upon our prior work DYNA, a disease-specific language model for variant pathogenicity prediction, we propose a novel direction that introduces world models into the field of genomic interpretation. This approach reconceptualizes variant effect prediction as a dynamic reasoning process—where predictions evolve over time as new clinical or biological evidence becomes available.
 
-Our framework integrates model-based reinforcement learning with large language model (LLM)-based embeddings, enabling **uncertainty-aware re-evaluation** of rare cardiovascular variants such as those in *FBN2*. This is a significant departure from static classifiers, allowing our model to simulate how clinical understanding might improve over time.
+This shift toward world modeling enables more flexible and forward-looking interpretation of variants of uncertain significance (VUS), particularly in underrepresented diseases such as cardiovascular disorders. It lays the groundwork for rethinking how uncertainty and evidence accumulation are handled in clinical genomics.
 
 <p align="center">
-  <img src="/assets/img/research/dyna-worldmodel.png" alt="DYNA-WorldModel workflow" width="600">
+  <img src="/assets/img/research/dyna-worldmodel.pdf" alt="DYNA-WorldModel workflow" width="600">
 </p>
 
 **Figure.** *Illustration of our DYNA-WorldModel framework.*  
-The model combines LLM-based representations with model-based reinforcement learning, updating pathogenicity assessments as evidence accumulates. It is designed to handle underpowered or sparse case data scenarios and is especially applicable to VUS reclassification in clinical genomics.
+The model treats variant interpretation as an evolving state, enabling re-evaluation as additional information emerges. This paradigm is especially impactful for rare variant prioritization in contexts with limited labeled data.
 
 
 *Related publication:*
