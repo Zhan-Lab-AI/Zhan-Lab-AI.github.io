@@ -39,7 +39,7 @@ Our research spans from rare variant discovery to secure genomics and autonomous
 <hr>
 
 <a id="sec-1"></a>
-<h4>1. Variant Effect Prediction with Large Language Models</h4>
+<h3>1. Variant Effect Prediction with Large Language Models</h3>
 <p>
 We develop disease-specific language models to predict the functional impact of genetic mutations. 
 Our flagship system, <strong>DYNA</strong>, enables more precise variant interpretation for cardiac and regulatory genomics.
