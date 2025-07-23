@@ -25,13 +25,13 @@ Our research spans from rare variant discovery to secure genomics and autonomous
     &nbsp;&nbsp;&nbsp;&nbsp;1.2 <a href="#sec-1-2">World Models for Dynamic Reclassification</a>
   </li>
   <li>
-    <a href="#sec-2">Privacy and Security in Genomic AI</a><br>
+    <a href="#sec-2">Trustworthy and Secure Genomic AI</a><br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.1 <a href="#sec-2-1">Privacy Leakage in Foundation Models</a><br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.2 <a href="#sec-2-2">Adversarial Robustness</a>
   </li>
   <li>
-    <a href="#sec-3">Privacy-Aware Agentic AI for Surgery and Rehabilitation</a><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;3.1 <a href="#sec-3-1">Privacy-Preserving Surgical Gesture Prediction</a><br>
+    <a href="#sec-3">Unified Generative AI for Surgery and Rehabilitation</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;3.1 <a href="#sec-3-1">Diffusion-Based Surgical Gesture Prediction</a><br>
     &nbsp;&nbsp;&nbsp;&nbsp;3.2 <a href="#sec-3-2">Assistive Robotics for Rehab</a>
   </li>
 </ol>
