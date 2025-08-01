@@ -63,7 +63,7 @@ This shift toward world modeling enables more flexible and forward-looking inter
  
 
 <p align="center">
-  <img src="/images/dyna-worldmodel.pdf" alt="DYNA-WorldModel workflow" width="600">
+  <img src="/images/dyna-worldmodel.png" alt="DYNA-WorldModel workflow" width="600">
 </p>
 
 **Figure.** *Illustration of our DYNA-WorldModel framework.*  
