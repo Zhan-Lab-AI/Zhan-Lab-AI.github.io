@@ -6,6 +6,9 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
+* <b>Full publication list:</b> See my complete list on 
+  [Google Scholar](https://scholar.google.com/citations?user=ePwxgXsAAAAJ&hl=en).
+  
 * <b>Publications @ Cedars-Sinai:</b>
 
    * <b>Huixin Zhan</b>, Jason H. Moore, and Zijun Frank Zhang, "A disease-specific language model for variant pathogenicity in cardiac and regulatory genomics," in <i>Nature Machine Intelligence, 2025: 1-11.</i> [(Paper Link)](https://www.nature.com/articles/s42256-025-01016-8) [(ArXiv Version Link)](https://arxiv.org/pdf/2406.00164)
