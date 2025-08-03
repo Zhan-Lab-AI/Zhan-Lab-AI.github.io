@@ -52,16 +52,19 @@ I am broadly interested in machine learning, large language models, and graph ne
 We are currently **recruiting for Fall 2026** and welcome inquiries from enthusiastic researchers and students who are passionate about AI, biomedicine, and interdisciplinary discovery.
 
 ### 🧑‍🎓 Prospective Ph.D. Students  
-Apply to the **Ph.D. Program in Computer Science**. If you are interested in joining our lab, feel free to reach out via email to discuss potential research directions.
+Apply to the **Ph.D. Program in Computer Science** at New Mexico Tech. Positions in the lab are **fully funded**, including tuition support, stipend, and opportunities for **research assistantships and hands-on research** with advanced AI technologies.  
+If you are interested in joining, feel free to reach out via email to discuss potential research directions.
 
 ### 🧑‍🎓 Prospective Master’s Students  
-Master’s thesis students are welcome to join the lab! If you're interested in conducting thesis research aligned with our areas of focus, please send an email with your **CV** and a brief description of your **research interests** to start the conversation.
+Master’s thesis students are also welcome to join the lab! Our positions are **fully funded**, with support via **teaching assistantships or research assistantships**, and provide exposure to cutting-edge interdisciplinary work in machine learning and biomedicine.  
+To express interest, please email your **CV** and a brief description of your **research interests**.
 
 ### 🧑‍💼 Postdoctoral Researchers  
 The lab currently does not have dedicated funding for postdocs. However, if you have external funding or are interested in applying for a **fellowship together**, please don’t hesitate to get in touch.
 
 ### 👩‍🔬 Undergraduate Students  
-Research assistant opportunities will become available starting **Fall 2025**. Stay tuned for updates!
+**Funded research assistant positions** will become available starting **Fall 2025**, ideal for students seeking research experience in AI, medicine, and robotics. Mentored projects can lead to co-authorship opportunities.  
+Stay tuned or email to express early interest.
 
 ---
 
