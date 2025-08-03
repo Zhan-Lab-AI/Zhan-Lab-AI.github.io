@@ -63,7 +63,7 @@ This shift toward world modeling enables more flexible and forward-looking inter
  
 
 <p align="center">
-  <img src="/images/dyna-worldmodel.png" alt="DYNA-WorldModel workflow" width="600">
+  <img src="/images/dyna-worldmodel.png" alt="DYNA-WorldModel workflow" width="1000">
 </p>
 
 **Figure.** *Illustration of our DYNA-WorldModel framework.*  
@@ -98,7 +98,7 @@ and develop robust training techniques for variant prediction models to remain s
 </p>
 
 <p align="center">
-  <img src="/images/adversarial.png" alt="Adversary GFMs" width="600">
+  <img src="/images/adversarial.png" alt="Adversary GFMs" width="1000">
 </p>
 
 **Figure.** *Illustration of adversarial sensitivity in GFMs.* 
@@ -133,7 +133,7 @@ We use wearable sensor data and fine-grained action modeling to personalize reha
 </p>
 
 <p align="center">
-  <img src="/images/robotics.png" alt="Privacy-Preserving Surgical Gesture Prediction" width="600">
+  <img src="/images/robotics.png" alt="Privacy-Preserving Surgical Gesture Prediction" width="1000">
 </p>
 
 **Figure.** *Personalized gesture sequence prediction using diffusion models.* 
