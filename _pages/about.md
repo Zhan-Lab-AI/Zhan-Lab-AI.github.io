@@ -66,7 +66,7 @@ We build machine learning systems that connect large language models and foundat
 
 ## 📚 Featured Publication
 
-![DYNA Publication Figure](/images/dyna-workflow.png)
+![DYNA Publication Figure](/images/dyna-worldmodel.png)
 
 **A disease-specific language model for variant pathogenicity in cardiac and regulatory genomics**  
 Huixin Zhan, Jason H. Moore, Zijun Frank Zhang  
