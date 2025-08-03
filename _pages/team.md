@@ -69,9 +69,9 @@ Stay tuned or email to express early interest.
 
 ## 🎓 Past Students (with Prof. Victor S. Sheng)
 
-In collaboration with my Ph.D. advisor, **Prof. Victor S. Sheng**, I co-mentored the following students on various research projects:
+I mentored the following students on various research projects:
 
-- **Liyuan Gao** – Ph.D. student: Worked on *Explainable AI and Neuro-symbolic AI*, resulting in two first-author conference papers and one second-author paper.
+- **Liyuan Gao** (with Victor S. Sheng) – Ph.D. student: Worked on *Explainable AI and Neuro-symbolic AI*, resulting in two first-author conference papers and one second-author paper.
 - **Zekarias Setotaw** – Master's student: Completed a project on *Compression of Semantic Graphs for Graph-based Abstractive Summarization*.
 - **Siddhartha Ireddy** – Master's student: Led a project on *Abstractive Text Summarization via Stacked LSTM*, which resulted in a first-author conference paper.
 - **Madhuri Gangadharan** – Master's student: Completed a project on *Opinion Summarization Techniques for Social Media*.
