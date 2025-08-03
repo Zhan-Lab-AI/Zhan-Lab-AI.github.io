@@ -67,17 +67,17 @@ Stay tuned or email to express early interest.
 ---
 
 
-## 🎓 Past Students (with Prof. Victor S. Sheng)
+## 🎓 Past Students
 
 I mentored the following students on various research projects:
 
 - **Liyuan Gao** (with Victor S. Sheng) – Ph.D. student: Worked on *Explainable AI and Neuro-symbolic AI*, resulting in two first-author conference papers and one second-author paper.
-- **Zekarias Setotaw** – Master's student: Completed a project on *Compression of Semantic Graphs for Graph-based Abstractive Summarization*.
-- **Siddhartha Ireddy** – Master's student: Led a project on *Abstractive Text Summarization via Stacked LSTM*, which resulted in a first-author conference paper.
-- **Madhuri Gangadharan** – Master's student: Completed a project on *Opinion Summarization Techniques for Social Media*.
-- **Apoorva Tyagi** – Master's student: Completed research on *Privacy-preserving Algorithms*.
-- **Himaja Reddy Thatiparthi** – Master's student: Conducted research on *Privacy-Preserving Text Representations for Medical Records*.
-- **Fei Zhou** – Master's student: Worked on *Ensemble Summarization Models for CoronaNet*, resulting in a second-author conference paper and a completed Master’s thesis.
+- **Zekarias Setotaw** (with Victor S. Sheng) – Master's student: Completed a project on *Compression of Semantic Graphs for Graph-based Abstractive Summarization*.
+- **Siddhartha Ireddy** (with Victor S. Sheng) – Master's student: Led a project on *Abstractive Text Summarization via Stacked LSTM*, which resulted in a first-author conference paper.
+- **Madhuri Gangadharan** (with Victor S. Sheng) – Master's student: Completed a project on *Opinion Summarization Techniques for Social Media*.
+- **Apoorva Tyagi** (with Victor S. Sheng) – Master's student: Completed research on *Privacy-preserving Algorithms*.
+- **Himaja Reddy Thatiparthi** (with Victor S. Sheng) – Master's student: Conducted research on *Privacy-Preserving Text Representations for Medical Records*.
+- **Fei Zhou** (with Victor S. Sheng) – Master's student: Worked on *Ensemble Summarization Models for CoronaNet*, resulting in a second-author conference paper and a completed Master’s thesis.
 
 
 ## 🤝 Collaborators
