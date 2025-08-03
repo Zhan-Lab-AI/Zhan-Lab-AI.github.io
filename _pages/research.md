@@ -39,7 +39,7 @@ Our research spans from rare variant discovery to secure genomics and autonomous
 <hr>
 
 <a id="sec-1"></a>
-<h3>1. Variant Effect Prediction with Large Language Models</h3>
+<h2>1. Variant Effect Prediction with Large Language Models</h2>
 <p>
 We develop disease-specific language models to predict the functional impact of genetic mutations. 
 Our flagship system, <strong>DYNA</strong>, enables more precise variant interpretation for cardiac and regulatory genomics.
@@ -76,7 +76,7 @@ The model treats variant interpretation as an evolving state, enabling re-evalua
 <hr>
 
 <a id="sec-2"></a>
-<h3>2. Privacy and Security in Genomic AI</h3>
+<h2>2. Privacy and Security in Genomic AI</h2>
 <p>
 Genomic foundation models are powerful—but vulnerable. 
 We study <strong>privacy risks</strong> and build <strong>robust learning frameworks</strong> to make genomic AI secure, reproducible, and fair.
@@ -109,7 +109,7 @@ and develop robust training techniques for variant prediction models to remain s
 <hr>
 
 <a id="sec-3"></a>
-<h3>3. Unified Generative AI for Surgery and Rehabilitation</h3>
+<h2>3. Unified Generative AI for Surgery and Rehabilitation</h2>
 <p>
 To build truly <strong>trustworthy agentic AI</strong> for clinical settings, we must go beyond performance—
 addressing <strong>privacy, generalizability, and robustness</strong> in embodied and interactive medical AI systems.
