@@ -18,7 +18,7 @@ We build machine learning systems that connect large language models and foundat
 
 ---
 
-### 🔬 Research Areas
+## 🔬 Research Areas
 
 - 🧬 **Variant Effect Prediction using Large Language Models**  
   We design LLMs to interpret genetic variants and predict disease relevance across cardiomyopathies and neurological disorders.
@@ -62,4 +62,16 @@ We build machine learning systems that connect large language models and foundat
   
 </ul>
 
+---
+
+## 📚 Featured Publication
+
+![DYNA Publication Figure](/images/dyna-workflow.png)
+
+**A disease-specific language model for variant pathogenicity in cardiac and regulatory genomics**  
+Huixin Zhan, Jason H. Moore, Zijun Frank Zhang  
+*Nature Machine Intelligence*, 2025
+
+[![HTML](https://img.shields.io/badge/View-HTML-blue)](https://www.nature.com/articles/s42256-025-01016-8)
+[![CODE](https://img.shields.io/badge/GitHub-Code-informational)](https://github.com/zhanglab-aim/DYNA)
 
