@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-* 📄 <b>Full publication list:</b> See my complete list on 
+* 💡  <b>Full publication list:</b> See my complete list on 
   [Google Scholar](https://scholar.google.com/citations?user=ePwxgXsAAAAJ&hl=en).
   
 * <b>Publications @ Cedars-Sinai:</b>
