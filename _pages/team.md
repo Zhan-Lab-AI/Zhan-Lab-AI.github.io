@@ -52,7 +52,7 @@ I am broadly interested in machine learning, large language models, and graph ne
 We are currently **recruiting for Fall 2026** and welcome inquiries from enthusiastic researchers and students who are passionate about AI, biomedicine, and interdisciplinary discovery.
 
 ### 🧑‍🎓 Prospective Ph.D. Students  
-Apply to the **Ph.D. Program in Computer Science** at New Mexico Tech. Positions in the lab are **fully funded**, including tuition support, stipend, and opportunities for **research assistantships and hands-on research** with advanced AI technologies.  
+Apply to the **Ph.D. Program in Computer Science** at New Mexico Tech. Positions in the lab are **fully funded**, including tuition support, stipend, and opportunities for **research assistantships and immersive research experience** with advanced AI technologies.  
 If you are interested in joining, feel free to reach out via email to discuss potential research directions.
 
 ### 🧑‍🎓 Prospective Master’s Students  
