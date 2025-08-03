@@ -66,12 +66,29 @@ We build machine learning systems that connect large language models and foundat
 
 ## 📚 Featured Publication
 
-![DYNA Publication Figure](/images/dyna-worldmodel.png)
+<table>
+  <tr>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="/images/dyna-worldmodel.png" alt="DYNA Publication Figure" style="max-width: 100%; border-radius: 8px;">
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      <p style="margin-top: 0;">
+        <strong>
+          A disease-specific language model for variant pathogenicity in cardiac and regulatory genomics
+        </strong><br>
+        Huixin Zhan, Jason H. Moore, Zijun Frank Zhang  
+        <br><em>Nature Machine Intelligence</em>, 2025
+      </p>
 
-**A disease-specific language model for variant pathogenicity in cardiac and regulatory genomics**  
-Huixin Zhan, Jason H. Moore, Zijun Frank Zhang  
-*Nature Machine Intelligence*, 2025
-
-[![HTML](https://img.shields.io/badge/View-HTML-blue)](https://www.nature.com/articles/s42256-025-01016-8)
-[![CODE](https://img.shields.io/badge/GitHub-Code-informational)](https://github.com/zhanglab-aim/DYNA)
+      <p>
+        <a href="https://www.nature.com/articles/s42256-025-01016-8" target="_blank">
+          <img src="https://img.shields.io/badge/View-HTML-blue" alt="HTML">
+        </a>
+        <a href="https://github.com/zhanglab-aim/DYNA" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Code-informational" alt="Code">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
