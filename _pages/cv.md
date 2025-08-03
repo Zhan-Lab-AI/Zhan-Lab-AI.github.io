@@ -20,7 +20,10 @@ Education
 
 Work Experience
 ======
-* July 2023 -: Postdoctoral Scientist
+* August 2025 - Present: Assistant Professor
+  * New Mexico Tech
+
+* July 2023 - August 2025: Postdoctoral Scientist
   * Cedars-Sinai
 
 * Summer 2020 - Summer 2023: Research Assistant
@@ -48,6 +51,9 @@ Skills
 Service and Travel Awards
 ======
 * Reviewer for Conference Manuscript Submissions:
+   * NeurIPS 2025
+   * ACL 2025
+   * ICML 2025
    * AAAI 2024
    * HICSS 2024
    * IJCNN 2024
@@ -63,6 +69,7 @@ Service and Travel Awards
    * Journal of Artificial Intelligence Research (JAIR)
    * ACM Transactions on Human-Robot Interaction
    * Expert Systems with Applications
+   * Communications Medicine
    
 * 2023 AAAI Student Scholarship Award
 * 2022 CIKM Student Travel Award
