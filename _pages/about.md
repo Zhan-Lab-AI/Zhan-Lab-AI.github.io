@@ -64,7 +64,7 @@ We build machine learning systems that connect large language models and foundat
 
 ---
 
-## 📚 Featured Publication
+## 📚 Featured Publications
 
 <table>
   <tr>
