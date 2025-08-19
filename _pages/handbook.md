@@ -20,7 +20,7 @@ We are working with several faculty and administrators to set up an **A100 HPC c
 - Please follow all university and lab-specific policies for HPC use.  
 - Responsible usage is expected: prioritize research jobs, monitor resource consumption, and report issues.
 - In the meantime, students can access HPC resources through **[RMACC](https://rmacc.org/)**.  
-- Lab members will also have **early access to HPC@NMT with H200 GPUs**.    
+- We will have **early access to HPC@NMT with H200 GPUs**.    
 
 ### 🕒 Lab Hours  
 - I encourage students to **be on campus during working hours (9 AM – 5 PM)** for collaboration.  
