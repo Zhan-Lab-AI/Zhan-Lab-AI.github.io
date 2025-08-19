@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Handbook"
 excerpt: "Handbook"
 permalink: /handbook/
 author_profile: true
