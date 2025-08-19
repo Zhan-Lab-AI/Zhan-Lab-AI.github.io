@@ -67,6 +67,23 @@ Stay tuned or email to express early interest.
 ---
 
 
+## 👥 Current Team Members  
+
+### 🧑‍🎓 Ph.D. Students  
+- Rakibul Islam  
+- Hemanth Reddy Madduri  
+
+### 🧑‍🎓 Master’s Students  
+- Ethan Peterson  
+
+### 🧑‍🎓 Undergraduate Students  
+- Long Nguyen  
+- Clovis Barbour  
+
+---
+
+
+
 ## 🎓 Past Students
 
 I mentored the following students on various research projects:
