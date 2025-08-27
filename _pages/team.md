@@ -70,7 +70,15 @@ Stay tuned or email to express early interest.
 ## 👥 Current Team Members  
 
 ### 🧑‍🎓 Ph.D. Students  
-- Rakibul Islam  
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/rakibul.jpg" alt="Rakibul Islam" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p><strong>Ph.D. Student, Computer Science & Engineering, New Mexico Tech</strong></p>
+    <p>Hello! My name is Rakibul Islam, and I am pursuing a Ph.D. in Computer Science at NMT. My research interests include security, privacy, ML, AI, and LLMs. My current research focuses on securing watermarking techniques for genome foundation models. This work aims to design methods that ensure model authenticity, protect intellectual property, and enhance resilience against adversarial attacks. Outside of research, I am always eager to learn new things and explore creative ways to apply ideas in practice./p>
+  </div>
+</div>
+
 - Hemanth Reddy Madduri  
 
 ### 🧑‍🎓 Master’s Students  
@@ -151,6 +159,7 @@ I mentored the following students on various research projects:
   </div>
 </div>
 
+<!--
 ### Yufei Wu, OTD, OTR/L
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
@@ -159,6 +168,7 @@ I mentored the following students on various research projects:
     <p>Dr. Yufei Wu is a clinical occupational therapist at Cedars-Sinai’s Outpatient Neurological Rehabilitation Center. As a licensed OTD, she brings deep clinical insights into neurorehabilitation. Huixin collaborates with her on research involving agentic AI and rehabilitation robotics for stroke and neurological recovery.</p>
   </div>
 </div>
+-->
 
 ### Zhong Chen, Ph.D.
 
