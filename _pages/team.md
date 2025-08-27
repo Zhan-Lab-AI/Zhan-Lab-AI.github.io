@@ -75,7 +75,7 @@ Stay tuned or email to express early interest.
   <img src="/images/rakibul.jpg" alt="Rakibul Islam" style="width: 200px; border-radius: 12px; margin-right: 20px;">
   <div>
     <p><strong>Ph.D. Student, Computer Science & Engineering, New Mexico Tech</strong></p>
-    <p>Hello! My name is Rakibul Islam, and I am pursuing a Ph.D. in Computer Science at NMT. My research interests include security, privacy, ML, AI, and LLMs. My current research focuses on securing watermarking techniques for genome foundation models. This work aims to design methods that ensure model authenticity, protect intellectual property, and enhance resilience against adversarial attacks. Outside of research, I am always eager to learn new things and explore creative ways to apply ideas in practice./p>
+    <p>Hello! My name is Rakibul Islam, and I am pursuing a Ph.D. in Computer Science at NMT. My research interests include security, privacy, ML, AI, and LLMs. My current research focuses on securing watermarking techniques for genome foundation models. This work aims to design methods that ensure model authenticity, protect intellectual property, and enhance resilience against adversarial attacks. Outside of research, I am always eager to learn new things and explore creative ways to apply ideas in practice.</p>
   </div>
 </div>
 
