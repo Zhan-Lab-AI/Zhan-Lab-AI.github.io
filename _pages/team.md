@@ -98,9 +98,22 @@ Stay tuned or email to express early interest.
 </div>
 
 ### 🧑‍🎓 Undergraduate Students  
-- Long Nguyen  
-- Clovis Barbour  
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/long.jpg" alt="Long Nguyen" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p><strong>Undergraduate Student, Computer Science & Engineering, New Mexico Tech</strong></p>
+    <p>My name is Long Nguyen. I am interested in Artificial Intelligence and Machine Learning, focusing on the Agentic AI track. My research studies AI agents that can work independently to generate ideas, build models, and run experiments, helping make scientific discovery faster and more efficient.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/clovis.JPEG" alt="Clovis Barbour" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p><strong>Undergraduate Student, Computer Science & Engineering, New Mexico Tech</strong></p>
+    <p>My name is Clovis Barbour. I am an undergraduate computer science student at New Mexico Tech, currently completing the accelerated cybersecurity master’s program. My research interests include cybersecurity, biomedical AI, and the intersection of these topics.</p>
+  </div>
+</div>
 ---
 
 
