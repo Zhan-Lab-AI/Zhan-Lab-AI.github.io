@@ -88,7 +88,14 @@ Stay tuned or email to express early interest.
 </div>
 
 ### 🧑‍🎓 Master’s Students  
-- Ethan Peterson  
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/ethan" alt="Ethan Peterson" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p><strong>Master's Student, Computer Science & Engineering, New Mexico Tech</strong></p>
+    <p>My name is Ethan Peterson, and I am a graduate student at New Mexico Tech working on a M.S. in Computer Science. I am currently doing research under Dr Zhan at the Zhan lab. I graduated in May 2025 with a B.S. in Computer Science with a minor in Mathematics from New Mexico Tech. </p>
+  </div>
+</div>
 
 ### 🧑‍🎓 Undergraduate Students  
 - Long Nguyen  
