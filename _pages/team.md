@@ -114,8 +114,9 @@ Stay tuned or email to express early interest.
     <p>My name is Clovis Barbour. I am an undergraduate computer science student at New Mexico Tech, currently completing the accelerated cybersecurity master’s program. My research interests include cybersecurity, biomedical AI, and the intersection of these topics.</p>
   </div>
 </div>
----
 
+
+---
 
 
 ## 🎓 Past Students
