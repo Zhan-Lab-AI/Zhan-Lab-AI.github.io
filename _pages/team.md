@@ -79,7 +79,13 @@ Stay tuned or email to express early interest.
   </div>
 </div>
 
-- Hemanth Reddy Madduri  
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/hemanth.jpg" alt="Hemanth Reddy Madduri" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p><strong>Ph.D. Student, Computer Science & Engineering, New Mexico Tech</strong></p>
+    <p>Hi, I’m Hemanth Reddy Madduri, a PhD student in Computer Science at New Mexico Tech, focusing on AI, machine learning, and deep learning. My current research explores transfer learning and gesture recognition in the context of agentic surgical AI. I enjoy tackling challenging problems, especially those with real-world impact, and I’m always eager to collaborate and learn from others in the lab. I look forward to contributing my skills and growing alongside the team!</p>
+  </div>
+</div>
 
 ### 🧑‍🎓 Master’s Students  
 - Ethan Peterson  
