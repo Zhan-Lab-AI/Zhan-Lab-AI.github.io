@@ -17,6 +17,75 @@ We believe foundational models—if properly secured and grounded—can revoluti
 Our research spans from rare variant discovery to secure genomics and autonomous surgical reasoning.
 </p>
 
+<h2>Grants</h2>
+
+<div class="grant">
+
+  <div class="grant-logo">
+    <img src="images/nm-epscor-logo-temp.png" alt="New Mexico EPSCoR Logo" width="180">
+  </div>
+
+  <div class="grant-content">
+    <h3>
+      Supporting Undergraduate Research Experiences (SURE) Award
+    </h3>
+
+    <p><strong>Funding Agency:</strong> New Mexico EPSCoR</p>
+    <p><strong>Role:</strong> Principal Investigator</p>
+    <p><strong>Project Title:</strong>
+      Large Language Models for Code and Compiler Education:
+      A Course-Based Undergraduate Research Experience
+    </p>
+    <p><strong>Period:</strong> 2025–2026</p>
+
+    <p>
+      This project develops a course-based undergraduate research experience (CURE)
+      that integrates large language models into code analysis and compiler education.
+      The goal is to broaden participation in research by embedding authentic,
+      AI-driven research activities directly into the undergraduate curriculum,
+      while training students in modern AI-assisted software and systems education.
+    </p>
+  </div>
+
+</div>
+
+
+<hr>
+
+
+<div class="grant">
+
+  <div class="grant-logo">
+    <img src="images/nm-inbre-logo-temp.png" alt="NM-INBRE Logo" width="180">
+  </div>
+
+  <div class="grant-content">
+    <h3>
+      NM-INBRE Developmental Research Project Program (DRPP)
+    </h3>
+
+    <p><strong>Funding Agency:</strong>
+      NIH / National Institute of General Medical Sciences (via NM-INBRE)
+    </p>
+    <p><strong>Role:</strong> Principal Investigator</p>
+    <p><strong>Project Title:</strong>
+      REACT: Rehabilitation through Embodied Agentic Clinical Transfer
+    </p>
+    <p><strong>Period:</strong> 2025–2026</p>
+
+    <p>
+      This seed-funded project explores agentic AI models for neurorehabilitation,
+      focusing on embodied learning and clinical transfer.
+      The work supports undergraduate and graduate research training
+      at the intersection of artificial intelligence, health, and rehabilitation,
+      aligned with the NM-INBRE mission to expand biomedical research capacity
+      in New Mexico.
+    </p>
+  </div>
+
+</div>
+
+
 <h2>Primary Research Areas</h2>
 <ol>
   <li>
