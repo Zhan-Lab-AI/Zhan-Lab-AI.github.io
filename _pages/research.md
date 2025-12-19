@@ -56,7 +56,7 @@ Our research spans from rare variant discovery to secure genomics and autonomous
 <div class="grant">
 
   <div class="grant-logo">
-    <img src="images/nm-inbre-logo-temp.png" alt="NM-INBRE Logo" width="180">
+    <img src="images/nm-inbre-logo.png" alt="NM-INBRE Logo" width="180">
   </div>
 
   <div class="grant-content">
