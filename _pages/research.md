@@ -19,7 +19,7 @@ Our research spans from rare variant discovery to secure genomics and autonomous
 
 <h2>Grants</h2>
 
-<img src="images/nm-epscor-logo.png" alt="New Mexico EPSCoR Logo" width="160">
+<img src="/images/nm-epscor-logo.png" alt="New Mexico EPSCoR Logo" width="160">
 
 <h3>Supporting Undergraduate Research Experiences (SURE) Award</h3>
 <p><strong>Funding Agency:</strong> New Mexico EPSCoR<br>
@@ -38,7 +38,7 @@ while training students in modern AI-assisted software and systems education.
 
 <hr>
 
-<img src="images/nm-inbre-logo.png" alt="NM-INBRE Logo" width="160">
+<img src="/images/nm-inbre-logo.png" alt="NM-INBRE Logo" width="160">
 
 <h3>NM-INBRE Developmental Research Project Program (DRPP)</h3>
 <p><strong>Funding Agency:</strong>
