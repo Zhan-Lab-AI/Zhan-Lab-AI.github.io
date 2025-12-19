@@ -24,6 +24,8 @@ Our research spans from rare variant discovery to secure genomics and autonomous
 <h3>Supporting Undergraduate Research Experiences (SURE) Award</h3>
 <p><strong>Funding Agency:</strong> New Mexico EPSCoR<br>
 <strong>Role:</strong> Principal Investigator<br>
+<strong>Co-Principal Investigator:</strong>
+<a href="https://www.cs.nmt.edu/~ramyaa/" target="_blank">Dr. Ramyaa</a><br>
 <strong>Project Title:</strong> Large Language Models for Code and Compiler Education:
 A Course-Based Undergraduate Research Experience<br>
 <strong>Period:</strong> 2025–2026</p>
