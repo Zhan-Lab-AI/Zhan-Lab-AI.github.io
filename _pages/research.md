@@ -25,7 +25,7 @@ Our research spans from rare variant discovery to secure genomics and autonomous
 <p><strong>Funding Agency:</strong> NASA / New Mexico Space Grant Consortium (NMSGC)<br>
 <strong>Role:</strong> Principal Investigator<br>
 <strong>Project Title:</strong> Disentangling Radiation- and Microgravity-Driven Gene Expression Programs in Public Space Biology Datasets<br>
-<strong>Period:</strong> 2026</p>
+<strong>Period:</strong> 2026–2027</p>
 
 <p>
 This project uses machine learning and foundation models to separate radiation- and microgravity-associated
