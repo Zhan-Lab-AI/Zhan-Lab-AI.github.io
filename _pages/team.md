@@ -90,14 +90,22 @@ Stay tuned or email to express early interest.
 ### 🧑‍🎓 Master’s Students  
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
-  <img src="/images/ethan.png" alt="Ethan Peterson" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <img src="/images/shefali-mandal.png" alt="Shefali Mandal" style="width: 200px; border-radius: 12px; margin-right: 20px;">
   <div>
     <p><strong>Master's Student, Computer Science & Engineering, New Mexico Tech</strong></p>
-    <p>My name is Ethan Peterson, and I am a graduate student at New Mexico Tech working on a M.S. in Computer Science. I am currently doing research under Dr Zhan at the Zhan lab. I graduated in May 2025 with a B.S. in Computer Science with a minor in Mathematics from New Mexico Tech. </p>
+    <p>Shefali Mandal is a master's student in Computer Science at New Mexico Tech, conducting research in the Zhan Lab. She works on least-privilege sandboxing for large language models—designing constrained execution environments that limit model access and capabilities while preserving useful reasoning.</p>
   </div>
 </div>
 
 ### 🧑‍🎓 Undergraduate Students  
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/michael-creel.png" alt="Michael Creel" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p><strong>Undergraduate Student, Computer Science & Engineering, New Mexico Tech</strong></p>
+    <p>Michael Creel is an undergraduate student in Computer Science at New Mexico Tech, conducting research in the Zhan Lab. He works on trustworthy brain–computer interfaces (BCI) for drone control using EEG signals—building reliable, safe systems that connect neural signals to unmanned aerial platforms.</p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
   <img src="/images/long.jpg" alt="Long Nguyen" style="width: 200px; border-radius: 12px; margin-right: 20px;">
@@ -122,6 +130,14 @@ Stay tuned or email to express early interest.
 ## 🎓 Past Students
 
 I mentored the following students on various research projects:
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="/images/ethan.png" alt="Ethan Peterson" style="width: 200px; border-radius: 12px; margin-right: 20px;">
+  <div>
+    <p><strong>Ethan Peterson</strong> – Master's student, New Mexico Tech</p>
+    <p>Ethan completed his M.S. thesis, <em>A Multimodal Framework for Surgical Phase Recognition: From Gesture Grounding to Intelligent Narratives</em>.</p>
+  </div>
+</div>
 
 - **Liyuan Gao** (with Victor S. Sheng) – Ph.D. student: Worked on *Explainable AI and Neuro-symbolic AI*, resulting in two first-author conference papers and one second-author paper.
 - **Zekarias Setotaw** (with Victor S. Sheng) – Master's student: Completed a project on *Compression of Semantic Graphs for Graph-based Abstractive Summarization*.
