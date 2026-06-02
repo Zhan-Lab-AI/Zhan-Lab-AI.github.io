@@ -19,6 +19,22 @@ Our research spans from rare variant discovery to secure genomics and autonomous
 
 <h2>Grants</h2>
 
+<img src="/images/nm-space-grant-logo.png" alt="New Mexico Space Grant Consortium Logo" width="160">
+
+<h3>NM Research Infrastructure Development (RID)</h3>
+<p><strong>Funding Agency:</strong> NASA / New Mexico Space Grant Consortium (NMSGC)<br>
+<strong>Role:</strong> Principal Investigator<br>
+<strong>Project Title:</strong> Disentangling Radiation- and Microgravity-Driven Gene Expression Programs in Public Space Biology Datasets<br>
+<strong>Period:</strong> 2026</p>
+
+<p>
+This project uses machine learning and foundation models to separate radiation- and microgravity-associated
+gene expression signals in public space biology datasets, supporting NASA-relevant discovery and
+infrastructure development for space biology research in New Mexico.
+</p>
+
+<hr>
+
 <img src="/images/nm-epscor-logo.png" alt="New Mexico EPSCoR Logo" width="160">
 
 <h3>Supporting Undergraduate Research Experiences (SURE) Award</h3>
