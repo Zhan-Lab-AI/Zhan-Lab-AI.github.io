@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to the **Zhan Lab** at New Mexico Tech!
 
-We build machine learning systems that connect large language models and foundational models with real-world scientific and societal challenges. Our work spans deep learning, structured reasoning, and human-AI interaction, with applications across genomics, medicine, robotics, and responsible AI.
+We build machine learning systems that connect large language models and foundational models with real-world scientific and societal challenges. Our work spans deep learning, structured reasoning, and human-AI interaction, with applications across genomics, medicine, robotics, and responsible AI. We are especially interested in **agentic AI** and **foundation models** that advance **scientific discovery** and **biomedicine**.
 
 
 <img src="/images/nmt-image.jpg" alt="New Mexico Tech Banner" width="100%" style="margin-top: 1rem; border-radius: 12px;">
@@ -31,6 +31,9 @@ We build machine learning systems that connect large language models and foundat
 
 - 🤖 **Agentic AI for Surgery and Rehab**  
   AI systems that analyze and collaborate in clinical actions such as surgical skill tracking and robotic rehabilitation.
+
+- 🔬 **Agentic AI & Foundation Models for Scientific Discovery and Biomedicine**  
+  LLM-based agents and foundation models that plan, reason, and use tools to accelerate hypothesis generation and biomedical discovery.
 
 ---
 
