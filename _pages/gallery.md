@@ -5,28 +5,24 @@ permalink: /gallery/
 author_profile: true
 ---
 
-## 📸 Lab Moments & Memories
+## ACMSE 2026 — Troy, Alabama
 
-Welcome to the Zhan Lab photo gallery — a glimpse into the seasons, places, and people.
+Photos from the ACM Southeast Conference (ACMSE) at Troy University, Troy, Alabama.
 
 ---
 
-### ☀️ Summer 2025 — LBNL AI for Science  
-<img src="/images/LBNL.jpeg" alt="LBNL Summer 2025" style="width:400px; height:auto;" />
-
-### ❄️ Santa Fe, 2021 Winter  
-<img src="/images/hzhan-profile.jpg" alt="Santa Fe Winter 2021" style="width:400px; height:auto;" />
-
-### 🏛️ Cramer Hall — Home of CSE Dept  
-<img src="/images/cramer.jpg" alt="Cramer Hall" style="width:400px; height:auto;" />
-
-### 🌸 New Mexico Tech — Spring View  
-<img src="/images/nmt-image-1.jpg" alt="NMT Spring" style="width:400px; height:auto;" />
-
-### ⛄ New Mexico Tech — Winter View  
-<img src="/images/nmt-winter.jpeg" alt="NMT Winter" style="width:400px; height:auto;" />
-
-
-
-
-
+<figure class="half">
+  <a href="/images/acmse-2026-authors.png">
+    <img src="/images/acmse-2026-authors.png" alt="Zhan Lab members at the ACMSE Troy University backdrop">
+  </a>
+  <a href="/images/acmse-2026-banquet.png">
+    <img src="/images/acmse-2026-banquet.png" alt="Conference banquet dinner with lab members">
+  </a>
+  <a href="/images/acmse-2026-networking.png">
+    <img src="/images/acmse-2026-networking.png" alt="Networking session at the conference center">
+  </a>
+  <a href="/images/acmse-2026-dinner.png">
+    <img src="/images/acmse-2026-dinner.png" alt="Group dinner at bb.q Chicken in Troy">
+  </a>
+  <figcaption>ACMSE 2026 at Troy University — authors, banquet, networking, and local dining.</figcaption>
+</figure>
