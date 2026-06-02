@@ -40,6 +40,9 @@ We build machine learning systems that connect large language models and foundat
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li><b>[May, 2026]</b>. Awarded <a href="/research/">NM Research Infrastructure Development (RID)</a> from NASA / New Mexico Space Grant Consortium as PI for <em>Disentangling Radiation- and Microgravity-Driven Gene Expression Programs in Public Space Biology Datasets</em> (2026–2027)!</li>
+    <li><b>[Jan, 2026]</b>. Awarded <a href="/research/">NM-INBRE Developmental Research Project Program (DRPP)</a> as PI for <em>REACT: Rehabilitation through Embodied Agentic Clinical Transfer</em> (2025–2026)!</li>
+  <li><b>[Dec, 2025]</b>. Awarded <a href="/research/">Supporting Undergraduate Research Experiences (SURE)</a> from New Mexico EPSCoR as PI for <em>Large Language Models for Code and Compiler Education: A Course-Based Undergraduate Research Experience</em> (2025–2026)!</li>
   <li><b>[Mar, 2025]</b>. <a href="https://huixin-zhan-ai.github.io//publications/">"A disease-specific language model for variant pathogenicity in cardiac and regulatory genomics"</a> is published in <span style="background-color:#f2f2f2; padding:2px 6px; border-radius:5px; font-weight:bold;"><i>Nature Machine Intelligence</i></span>!</li>
   <li> <b>[Mar, 2025]</b>. Invited to serve as a reviewer for ACL-2025 and Nature Scientific Reports!</li>
   <li> <b>[Jun, 2024]</b>. Invited to serve as a PC member for AAAI-2025 and a reviewer for both Machine Learning and Autonomous Agents and Multi-Agent Systems!</li>
